@@ -1,0 +1,67 @@
+/* Style the header */
+header {
+    background-color: rgb(61, 171, 225);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    }
+    
+    /* Style the h1 */
+    header h1 {
+    font-size: 40px;
+    margin: 0;
+    }
+    
+    /* Style the sections */
+    section {
+    padding: 20px;
+    }
+    
+    /* Style the unordered lists */
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #333;
+    }
+    
+    /* Style the education section */
+    #education {
+    background-color: #f2f2f2;
+    }
+    
+    /* Style the skills section */
+    #skills {
+    background-color: #e6e6e6;
+    }
+    
+    /* Style the work-experience section */
+    #work-experience {
+    background-color: #f2f2f2;
+    }
+    
+    /* Style the list items */
+    li {
+    font-size: 20px;
+    margin-bottom: 10px;
+    }
+    
+    /* Style the h2 headings */
+    h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    }
+    
+    /* Style the links */
+    a {
+    color: #333;
+    text-decoration: none;
+    }
+    
+    /* Style the email links */
+    a[href^="mailto:"] {
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    }
